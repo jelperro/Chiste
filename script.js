@@ -56,7 +56,9 @@ var chistes = ["La mayor exportación de Australia son los boomerangs. También 
 
         "¿Por qué la gallina cuida tanto a sus pollitos? Porque le costó un huevo tenerlos",
 
-        "- Iba a contar un chiste sobre sodio... pero Na."
+        "- Iba a contar un chiste sobre sodio... pero Na.",
+        
+        "Como se dice repollo en inglés, ReChicken"
 
 
 
