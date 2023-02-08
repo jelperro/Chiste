@@ -70,7 +70,7 @@ var chistes = ["La mayor exportación de Australia son los boomerangs. También 
 
 function funcionchistes() {
  
-    let random = Math.floor(Math.random() * 28)
+    let random = Math.floor(Math.random() * 29)
             console.log(random)
     let chiste = (chistes[random])
     console.log(chiste)
